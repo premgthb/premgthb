@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @premgthb
 - 👀 I’m interested in making technology better than yesterday.
-- 🌱 I’m currently learning Laravel, Ruby, VueJS.
+- 🌱 I’m currently working with Javascript.
 - 💞️ I’m looking to collaborate on innovative tech.
 - 📫 How to reach me prem.arumugam@outlook.com
 
